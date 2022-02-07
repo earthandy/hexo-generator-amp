@@ -21,7 +21,7 @@ You able to generate an AMP site with almost little effort.
 ## Installation
 
 ``` bash
-$ npm install hexo-generator-amp --save
+$ npm install earthandy/hexo-generator-amp --save
 ```
 
 If you occur `ERROR Plugin load failed:` error or `DTraceProviderBindings.node` error , please see below.
